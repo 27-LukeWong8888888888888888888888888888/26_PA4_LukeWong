@@ -1,0 +1,9 @@
+Unit Testing
+- Unit Testing is the process where you test the smallest functional unit of code
+- Testing methods and functions individually, checking if they work
+- It is a type of whitebox testing
+
+Integration Testing
+- Integration Testing is the process where the software as a whole is tested to see if it works.
+- Running the software and checking if errors happen
+- It is a type of blackbox testing
