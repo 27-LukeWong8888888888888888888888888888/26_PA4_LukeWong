@@ -7,3 +7,13 @@ Integration Testing
 - Integration Testing is the process where the software as a whole is tested to see if it works.
 - Running the software and checking if errors happen
 - It is a type of blackbox testing
+
+Updated by 10_JingXun
+– System testing
+■ What is system Testing? - Testing of a complete and fully integrated software product. 
+■ System Testing is conducted by a testing team that is independent of the development team that helps to test the quality of the system impartial.
+■ It is type of Blackbox Testing.
+– Acceptance testing
+■ What is acceptance Testing? - A process that establishes whether an application meets the end user standards based on predetermined characteristics.
+■ Acceptance Testing is conducted by end users, in an environment similar to production, to determine if the software is functioning as expected.
+■ It is type of Blackbox Testing.
